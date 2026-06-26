@@ -1,3 +1,16 @@
+> ⚠️ **This repository has moved and is archived.**
+>
+> Archetect 3 has been merged into the canonical repository
+> **[archetect/archetect](https://github.com/archetect/archetect)**, where all
+> development and releases now happen:
+> - `main` → the 3.x line (current)
+> - `2.x` → the v2 maintenance line
+>
+> Install: `brew install archetect` (v3) or `brew install archetect@2` (v2).
+> Please update your remotes/bookmarks to `archetect/archetect`.
+
+---
+
 # archetect
 
 ![Rust](https://github.com/archetect/archetect/workflows/Rust/badge.svg)
